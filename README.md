@@ -1,1 +1,3 @@
 # Magic-Mirror
+
+Python implementation.
